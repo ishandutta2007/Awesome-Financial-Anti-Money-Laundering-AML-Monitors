@@ -30,77 +30,35 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global Anti-Money Laundering (AML) and transaction monitoring market is estimated at approximately **$14.3 billion to $24.8 billion in 2026** (with core AML software accounting for ~$3B–$5B and broader transaction monitoring capturing the largest share at over 34%). The market exhibits **moderate concentration** at the top tier, dominated by established incumbents protecting legacy Tier-1 banking footprints, while remaining **increasingly fragmented** across the mid-market and fintech tiers due to rapid adoption of cloud-native, AI-driven, and API-first SaaS compliance platforms.
 
 
 
 ## SaaS/Hosted Platforms
 
+| Platform | Company Size (Valuation / Revenue) | Pricing (Starting Tier) | Free Tier / Trial Limits | Key Highlights & Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[NICE Actimize](https://www.niceactimize.com/)** | **~$2B–$2.5B division valuation** ($6.8B parent market cap; $453.5M annual division revenue) | Starts at **~$100,000/year** (custom annual contract based on transaction volume, modules, and analyst seats) | **No free trial or free tier** (requires scoped vendor demo and custom institutional PoC) | Enterprise financial crime compliance platform. Features **real-time transaction monitoring**, case management, CDD/EDD workflows, and AI-powered alert triage. Widely deployed at tier-one banks. |
+| **[Feedzai](https://feedzai.com/)** | **$2B+ valuation** (Series E unicorn; ~$31M–$160M+ estimated ARR) | Starts at **Custom enterprise contract** (scoped by annual transaction volume and events; typically 6-figure enterprise entry) | **No free trial or free tier** (enterprise evaluation via scoped pilot/sandbox on request) | AI-native fraud and AML platform with **real-time decisioning** across payment channels. Features network analysis, behavioral biometrics, and explainable AI for compliance teams. |
+| **[Unit21](https://www.unit21.ai/)** | **~$620M–$700M valuation** ($92M raised, Series C; ~$10M–$30M ARR range) | Starts at **$33,000/year** (minimum entry contract per procurement benchmarks; average contract ~$160K/year) | **No permanent free tier** (custom proof-of-concept sandbox demo upon request) | No-code fraud and AML platform for fintechs. Features **real-time transaction monitoring**, rules engine, case management, and graph-based network analysis for detecting mule networks and layering chains. |
+| **[ComplyAdvantage](https://complyadvantage.com/)** | **~$250M–$500M valuation** ($171M raised; ~$50M–$88M ARR) | Starts at **$99/month** (billed annually at $1,188/yr, or $119/mo billed monthly for 100 monitored entities) | **No standard free trial**; offers **ComplyLaunch** (free full access for 1 year to early-stage startups with <$1M funding) | AML and sanctions screening platform with **real-time transaction monitoring**, customer risk scoring, and adverse media screening. Trusted by 1,000+ financial institutions globally. |
+| **[Hawk AI](https://hawk.ai/)** | **~$200M–$300M valuation** ($185M+ total raised including $56M Series C; ~$15M–$30M ARR) | Starts at **Custom enterprise quote** (typically ~$30,000–$50,000+/year minimum commitment scaled by transaction volume) | **No free trial or free tier** (interactive custom proof-of-concept and demo environment upon request) | AI-powered AML and fraud monitoring platform. Features real-time transaction screening, customer risk scoring, and explainable AI for regulatory reporting. |
+| **[ThetaRay](https://thetaray.com/)** | **~$150M–$250M valuation** ($170M raised, Series D; ~$20M–$40M ARR) | Starts at **Custom annual subscription** (volume-tiered pricing based on annual payment throughput and Sonar modules) | **No free trial or free tier** (custom Proof of Value / PoV testing against historical transaction data) | AI-powered AML and fraud detection platform. Features **network-level anomaly detection** and behavioral analytics for identifying previously unknown money laundering patterns. |
+| **[Napier AI](https://napier.ai/)** | **~$100M–$200M valuation** ($60M raised, majority-backed by Marlin Equity; ~$15M–$35M ARR) | Starts at **Custom annual subscription** (enterprise contract tailored to screening volume and Continuum modules) | **No free trial or free tier** (structured enterprise demo and technical pilot available upon consultation) | AI-enhanced AML compliance platform. Features transaction monitoring, screening, and customer risk assessment. |
+| **[Lucinity](https://lucinity.com/)** | **~$60M–$100M valuation** ($26M raised, Series B; ~$5M–$15M ARR) | Starts at **Custom enterprise pricing** (tiered based on tracked volume, analyst seats, and Luci Copilot AI agent usage) | **No free trial or free tier** (guided sandbox product walk-through and pilot upon request) | AI-powered AML investigation platform with **Luci** copilot for alert triage and narrative generation. Features agentic AI for autonomous case analysis. |
+| **[Flagright](https://www.flagright.com/)** | **~$40M–$70M valuation** ($22.7M raised, Series A; ~$4.1M ARR) | Starts at **$15,000/year** (entry-level base tier for emerging fintechs; scales by monthly transaction volume) | **No permanent free tier**; offers **Flagright Startup Program** (free for 1st year for eligible pre-seed/seed startups) or custom pilot | AI-native AML compliance and transaction monitoring platform. Features real-time screening, risk scoring, and case management. |
+| **[Sanction Scanner](https://sanctionscanner.com/)** *(Complead)* | **~$15M–$30M valuation** (Backed by Mastercard Lighthouse & VC accelerators; ~$2.8M ARR) | Starts at **Pay-as-you-go / Query bundle** (flexible SME query packages without high fixed minimums; custom quotes for high volume) | **Free web lookup tool** for ad-hoc sanction checks (OFAC, UK, EU); custom interactive demo with test API credits upon request | AML screening and monitoring platform. Features sanctions, PEP, and adverse media screening with transaction monitoring. |
 
-
-- **[ComplyAdvantage](https://complyadvantage.com/)**  
-
-  AML and sanctions screening platform with **real-time transaction monitoring**, customer risk scoring, and adverse media screening. Trusted by 1,000+ financial institutions globally.
-
-
-
-- **[Feedzai](https://feedzai.com/)**  
-
-  AI-native fraud and AML platform with **real-time decisioning** across payment channels. Features network analysis, behavioral biometrics, and explainable AI for compliance teams.
-
-
-
-- **[NICE Actimize](https://www.niceactimize.com/)**  
-
-  Enterprise financial crime compliance platform. Features **real-time transaction monitoring**, case management, CDD/EDD workflows, and AI-powered alert triage. Widely deployed at tier-one banks.
-
-
-
-- **[Unit21](https://www.unit21.ai/)**  
-
-  No-code fraud and AML platform for fintechs. Features **real-time transaction monitoring**, rules engine, case management, and graph-based network analysis for detecting mule networks and layering chains.
-
-
-
-- **[Flagright](https://www.flagright.com/)**  
-
-  AI-native AML compliance and transaction monitoring platform. Features real-time screening, risk scoring, and case management.
-
-
-
-- **[Lucinity](https://lucinity.com/)**  
-
-  AI-powered AML investigation platform with **Luci** copilot for alert triage and narrative generation. Features agentic AI for autonomous case analysis.
-
-
-
-- **[Hawk AI](https://hawk.ai/)**  
-
-  AI-powered AML and fraud monitoring platform. Features real-time transaction screening, customer risk scoring, and explainable AI for regulatory reporting.
-
-
-
-- **[Napier AI](https://napier.ai/)**  
-
-  AI-enhanced AML compliance platform. Features transaction monitoring, screening, and customer risk assessment.
-
-
-
-- **[ThetaRay](https://thetaray.com/)**  
-
-  AI-powered AML and fraud detection platform. Features **network-level anomaly detection** and behavioral analytics for identifying previously unknown money laundering patterns.
-
-
-
-- **[Sanction Scanner](https://sanctionscanner.com/)**  
-
-  AML screening and monitoring platform. Features sanctions, PEP, and adverse media screening with transaction monitoring.
 
 
 
