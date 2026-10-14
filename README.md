@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors?style=flat-square&color=blue" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors?style=flat-square&color=emerald" alt="Last Commit" /></a>
@@ -81,7 +81,7 @@ Open-source AML technologies offer transparency, vendor independence, strict dat
 
 ### ⭐ Open-Source Solutions (Ranked by Stars)
 
-Repositories below are sorted in **descending order by GitHub star count**. Each project includes a badge linking directly to its stargazer community.
+Repositories below are sorted in **descending order by GitHub Stars_Count**. Each project includes a badge linking directly to its stargazer community.
 
 - **[Ballerine](https://github.com/ballerine-io/ballerine)** [![Stars](https://img.shields.io/github/stars/ballerine-io/ballerine?style=social&color=white)](https://github.com/ballerine-io/ballerine/stargazers)  
   **Open-source infrastructure for identity, risk management, and KYC/AML compliance** (Y Combinator-backed). Features ready-to-deploy **KYC/KYB customer onboarding UI flows**, **case management dashboard**, back-office review suites, pre-built integrations with third-party verification vendors, and a customizable **rule & decisioning engine**. **The most flexible open-source platform for orchestrating customer onboarding and continuous risk assessment.**
