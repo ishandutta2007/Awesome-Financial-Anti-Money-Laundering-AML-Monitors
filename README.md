@@ -1,52 +1,66 @@
-# Awesome-Financial-Anti-Money-Laundering-AML-Monitors
+# 🛡️ Awesome-Financial-Anti-Money-Laundering-AML-Monitors
 
-## Top Financial Anti-Money Laundering (AML) Monitors Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Financial AML Monitors Banner" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors?style=social" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors?style=flat-square&color=blue" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors?style=flat-square&color=emerald" alt="Last Commit" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+## ⚡ Top Financial Anti-Money Laundering (AML) Monitors & Transaction Screening Ecosystem
 
-*Focused on Real-Time Transaction Screening, Network Analysis & Suspicious Activity Detection*  
+**A Curated Directory of Enterprise SaaS Solutions & Open-Source Software for Financial Crime Compliance (FCC)**  
+*Optimized for Real-Time Transaction Screening, Sanctions & PEP Verification, Network Graph Analysis, and Suspicious Activity Report (SAR) Detection*  
 
-**Last updated: October 2026**
+📅 **Last updated: October 2026**
 
+This repository tracks notable **SaaS platforms** and **open-source projects** for **Financial Anti-Money Laundering (AML) Monitors**. These tools empower tier-one banks, neobanks, fintechs, payment processors, and Virtual Asset Service Providers (VASPs) to screen transactions in real time, uncover complex money laundering typologies (structuring, layering, smurfing, mule networks), comply with global regulatory frameworks (**BSA/AML, FinCEN, FATF, OFAC, AMLD5/AMLD6**), and automate investigation workflows.
 
+> 💡 **Open-source emphasis**: Discover cutting-edge self-hostable engines, ISO 20022 real-time rule processors, and open transaction network analysis tools — purpose-built for compliance officers, fraud investigators, fintech engineers, and RegTech architects.
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Financial Anti-Money Laundering (AML) Monitors**. These tools enable banks, fintechs, VASPs, and payment providers to screen transactions in real time, flag anomalous networks, and detect money laundering typologies before funds move.
+Contributions are warmly welcome! Please see our [How to Contribute](#-how-to-contribute) guide.
 
+---
 
+## 📑 Table of Contents
 
-**Examples** include ComplyAdvantage, Feedzai, NICE Actimize, Unit21, Flagright, Lucinity, Hawk AI, Napier AI, ThetaRay, and Sanction Scanner (the category leaders).
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Platforms](#-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [⭐ Open-Source Solutions by Community Adoption](#-open-source-solutions-ranked-by-stars)
+  - [📦 Developer SDKs, Toolkits & Modules](#-developer-sdks-toolkits--modules)
+  - [🏗️ Architectural Frameworks for Custom AML Stacks](#-architectural-frameworks-for-custom-aml-stacks)
+- [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚖️ Disclaimer & Compliance Standards](#-disclaimer--compliance-standards)
 
+---
 
+## 📊 Sector Overview & Market Dynamics
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, real-time rule engines, and open transaction network analysis — ideal for compliance teams, fintech engineers, and developers seeking transparent, vendor-independent AML infrastructure.
+The global Anti-Money Laundering (AML) and transaction monitoring market is estimated at approximately **$14.3 billion to $24.8 billion in 2026** (with core AML software accounting for ~$3B–$5B and broader transaction monitoring capturing the largest market share at over 34%). 
 
+The competitive landscape exhibits **moderate concentration** at the top tier:
+- **Enterprise Core (Consolidated)**: Deeply entrenched legacy platform providers and incumbent titans (NICE Actimize, SAS, Oracle, Fiserv) protect entrenched deployments across global Tier-1 core banking systems.
+- **Agile SaaS & RegTech Innovation (Highly Fragmented)**: The mid-market, neobank, crypto VASP, and fintech segments are hyper-competitive and fragmented. Fast-growing AI-native specialists (Feedzai, ComplyAdvantage, Unit21, Hawk AI, Flagright, Lucinity) offer modular, API-first screening, agentic AI investigators, and graph network analysis to drastically minimize false positives.
 
+---
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+## 🏢 SaaS / Hosted Platforms
 
+Below is a curated comparison of leading commercial AML monitors, sorted descending by company size (valuation / annual revenue).
 
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-
-
-## Sector Overview & Market Dynamics
-
-The global Anti-Money Laundering (AML) and transaction monitoring market is estimated at approximately **$14.3 billion to $24.8 billion in 2026** (with core AML software accounting for ~$3B–$5B and broader transaction monitoring capturing the largest share at over 34%). The market exhibits **moderate concentration** at the top tier, dominated by established incumbents protecting legacy Tier-1 banking footprints, while remaining **increasingly fragmented** across the mid-market and fintech tiers due to rapid adoption of cloud-native, AI-driven, and API-first SaaS compliance platforms.
-
-
-
-## SaaS/Hosted Platforms
-
-| Platform | Company Size (Valuation / Revenue) | Pricing (Starting Tier) | Free Tier / Trial Limits | Key Highlights & Description |
+| Platform | Company Size (Valuation / Revenue) | Pricing (Starting Tier) | Free Tier / Trial Limits | Key Highlights & Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[NICE Actimize](https://www.niceactimize.com/)** | **~$2B–$2.5B division valuation** ($6.8B parent market cap; $453.5M annual division revenue) | Starts at **~$100,000/year** (custom annual contract based on transaction volume, modules, and analyst seats) | **No free trial or free tier** (requires scoped vendor demo and custom institutional PoC) | Enterprise financial crime compliance platform. Features **real-time transaction monitoring**, case management, CDD/EDD workflows, and AI-powered alert triage. Widely deployed at tier-one banks. |
 | **[Feedzai](https://feedzai.com/)** | **$2B+ valuation** (Series E unicorn; ~$31M–$160M+ estimated ARR) | Starts at **Custom enterprise contract** (scoped by annual transaction volume and events; typically 6-figure enterprise entry) | **No free trial or free tier** (enterprise evaluation via scoped pilot/sandbox on request) | AI-native fraud and AML platform with **real-time decisioning** across payment channels. Features network analysis, behavioral biometrics, and explainable AI for compliance teams. |
@@ -59,141 +73,150 @@ The global Anti-Money Laundering (AML) and transaction monitoring market is esti
 | **[Flagright](https://www.flagright.com/)** | **~$40M–$70M valuation** ($22.7M raised, Series A; ~$4.1M ARR) | Starts at **$15,000/year** (entry-level base tier for emerging fintechs; scales by monthly transaction volume) | **No permanent free tier**; offers **Flagright Startup Program** (free for 1st year for eligible pre-seed/seed startups) or custom pilot | AI-native AML compliance and transaction monitoring platform. Features real-time screening, risk scoring, and case management. |
 | **[Sanction Scanner](https://sanctionscanner.com/)** *(Complead)* | **~$15M–$30M valuation** (Backed by Mastercard Lighthouse & VC accelerators; ~$2.8M ARR) | Starts at **Pay-as-you-go / Query bundle** (flexible SME query packages without high fixed minimums; custom quotes for high volume) | **Free web lookup tool** for ad-hoc sanction checks (OFAC, UK, EU); custom interactive demo with test API credits upon request | AML screening and monitoring platform. Features sanctions, PEP, and adverse media screening with transaction monitoring. |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
+Open-source AML technologies offer transparency, vendor independence, strict data sovereignty, and auditable detection algorithms.
 
-## Open-Source GitHub Projects
+### ⭐ Open-Source Solutions (Ranked by Stars)
 
+Repositories below are sorted in **descending order by GitHub star count**. Each project includes a badge linking directly to its stargazer community.
 
+- **[Ballerine](https://github.com/ballerine-io/ballerine)** [![Stars](https://img.shields.io/github/stars/ballerine-io/ballerine?style=social&color=white)](https://github.com/ballerine-io/ballerine/stargazers)  
+  **Open-source infrastructure for identity, risk management, and KYC/AML compliance** (Y Combinator-backed). Features ready-to-deploy **KYC/KYB customer onboarding UI flows**, **case management dashboard**, back-office review suites, pre-built integrations with third-party verification vendors, and a customizable **rule & decisioning engine**. **The most flexible open-source platform for orchestrating customer onboarding and continuous risk assessment.**
 
-- **[Tazama](https://github.com/tazama-lf)**  
+- **[OpenSanctions](https://github.com/opensanctions/opensanctions)** [![Stars](https://img.shields.io/github/stars/opensanctions/opensanctions?style=social&color=white)](https://github.com/opensanctions/opensanctions/stargazers)  
+  **Open-source sanctions, Politically Exposed Persons (PEP), and global watchlist data repository**. Paired with the open-source **[yente](https://github.com/opensanctions/yente)** [![Stars](https://img.shields.io/github/stars/opensanctions/yente?style=social&color=white)](https://github.com/opensanctions/yente/stargazers) matching engine and screening API, it delivers full data lineage, explainability, and entity resolution. Deployed locally or in-cloud to eliminate vendor licensing lock-in while ensuring sub-second matching against OFAC, EU, UN, and national lists.
 
-  **The first open-source platform for real-time financial monitoring and fraud detection** (Apache-2.0), launched by the Linux Foundation with support from the Bill & Melinda Gates Foundation. Recognized as a **Digital Public Good**. Built to **ISO 20022 standards** for financial messaging interoperability. Microservices architecture with rule processors, typology scoring, and case management integration. Processes transactions in real time with **configurable rules** evaluating suspicious behavior. **Typology scoring** aggregates rule results into fraud and AML typology scores. Features transaction blocking, Kubernetes Helm charts, and GraphQL access via Hasura. **Deployed at COMESA JOPACC and the Jordanian Clearing House**. **The most comprehensive and institutionally-backed open-source AML platform available.**
+- **[Marble (CheckMarble)](https://github.com/checkmarble/marble)** [![Stars](https://img.shields.io/github/stars/checkmarble/marble?style=social&color=white)](https://github.com/checkmarble/marble/stargazers)  
+  **The flexible open-source alternative to ComplyAdvantage, NICE Actimize, and Fiserv** for real-time transaction monitoring, AML screening, and fraud investigation. Used by **100+ fintechs, banks, and crypto platforms in 15+ countries**. Features **real-time transaction monitoring** with dynamic data models, **sanctions/PEP/adverse media screening**, **investigation suite** with unified case manager, **AI automation** for rule tuning and alert triage, unalterable audit trails, and enterprise governance (RBAC, SSO, SOC 2 Type II). Includes **Motiva**, a high-performance Rust matching engine.
 
+- **[Moov Watchman](https://github.com/moov-io/watchman)** [![Stars](https://img.shields.io/github/stars/moov-io/watchman?style=social&color=white)](https://github.com/moov-io/watchman/stargazers)  
+  **Open-source regulatory sanctions and financial watchlist screening engine** built in Go by Moov Financial. Downloads, parses, and indexes sanctions lists from the U.S. Treasury OFAC (SDN, non-SDN), United Nations, European Union, and BIS. Delivers an ultra-fast REST API and CLI with exact, fuzzy, and phonetic matching algorithms for automated screening during payment transactions.
 
+- **[EvoAML](https://github.com/RongLiu-AML/EvoAML)** [![Stars](https://img.shields.io/github/stars/RongLiu-AML/EvoAML?style=social&color=white)](https://github.com/RongLiu-AML/EvoAML/stargazers)  
+  **Evolutionary Graph Learning Framework for Anti-Money Laundering Detection**. Integrates dynamic temporal transaction graph neural networks (GNNs) with evolutionary algorithms to detect evasive money-laundering behavior, cross-institution layering rings, and smurfing typologies compliant with BSA/AMLA 2020 regulatory mandates.
 
-- **[Marble (CheckMarble)](https://github.com/checkmarble/marble)**  
+- **[IBM AMLSim](https://github.com/IBM/AMLSim)** [![Stars](https://img.shields.io/github/stars/IBM/AMLSim)?style=social&color=white](https://github.com/IBM/AMLSim/stargazers)  
+  **Multi-agent simulator for synthetic financial transaction networks and AML benchmarking** developed by IBM Research. Synthesizes massive, realistic banking graphs embedded with genuine money laundering topologies (cycles, scatter-gather, fan-out/fan-in layering). Crucial for stress-testing rule engines and training ML detection models without privacy leaks.
 
-  **The flexible open-source alternative to ComplyAdvantage, Actimize, and Fiserv** for transaction monitoring, AML screening, and case investigation powered by AI. Used by **100+ fintechs, banks, and crypto exchanges in 15+ countries**. **Open-source core** with self-hosted or SaaS deployment. Features **real-time transaction monitoring** with custom data models, **sanctions/PEP/adverse media screening**, **continuous monitoring**, **investigation suite** with unified case manager, **AI automation** for rule building and alert triage, **reporting & BI** with direct database access, **audit trail** with searchable and unalterable logs, and **enterprise-grade governance** with RBAC, SSO, and SOC 2 Type II certification. **The most mature open-source AML platform for fintechs.** Marble built **Motiva**, a Rust reimplementation of OpenSanctions' matching engine optimized for high-concurrency real-time screening.
+- **[Santander Gen-Fraud-Graph](https://github.com/SantanderAI/gen-fraud-graph)** [![Stars](https://img.shields.io/github/stars/SantanderAI/gen-fraud-graph?style=social&color=white)](https://github.com/SantanderAI/gen-fraud-graph/stargazers)  
+  **Synthetic financial fraud and AML graph generator** by Santander AI. Creates large-scale graph structures simulating authentic transaction patterns, money mule networks, credit card fraud rings, and illicit payment flows for benchmarking graph-based machine learning models in banking.
 
+- **[OpenSanctions Nomenklatura](https://github.com/opensanctions/nomenklatura)** [![Stars](https://img.shields.io/github/stars/opensanctions/nomenklatura?style=social&color=white)](https://github.com/opensanctions/nomenklatura/stargazers)  
+  **High-performance record linkage, entity deduplication, and risk scoring library** used across investigative journalism and enterprise AML platforms. Powers complex entity resolution, cross-referencing company ownership, PEP databases, and sanctions lists using Levenshtein distance, token matching, and graph mapping.
 
+- **[cryptowallet_risk_scoring](https://github.com/januusio/cryptowallet_risk_scoring)** [![Stars](https://img.shields.io/github/stars/januusio/cryptowallet_risk_scoring?style=social&color=white)](https://github.com/januusio/cryptowallet_risk_scoring/stargazers)  
+  **Explainable crypto wallet risk evaluation and AML scoring engine**. Analyzes Bitcoin, Ethereum, and multi-chain address transactions against sanctioned clusters, mixers (Tornado Cash), ransomware addresses, and darknet marketplaces with transparent risk scoring metrics (0–100).
 
-- **[Jube](https://github.com/jube-home/aml-fraud-transaction-monitoring)**  
+- **[IBM Multi-GNN](https://github.com/IBM/Multi-GNN)** [![Stars](https://img.shields.io/github/stars/IBM/Multi-GNN?style=social&color=white)](https://github.com/IBM/Multi-GNN/stargazers)  
+  **Multi-Graph Neural Network Architecture for Anti-Money Laundering Detection** by IBM Research. Implements temporal and relational graph representations tailored to identifying suspicious financial transaction patterns across the Elliptic Bitcoin dataset and commercial banking graphs.
 
-  **Open-source AML and fraud detection using machine learning for real-time transaction monitoring** (AGPL-3.0). Features **flexible rule engine** with thresholds, velocity checks, aggregation counts, and sanctions screening integrated with ML outputs. **Cloud-native architecture** purpose-built for AML: fully containerized (Docker, Kubernetes), multi-tenancy, highly scalable. Configuration preservation enables backup, restore, and migration. **Default username/password: Administrator/Administrator** requiring change on first login. **The most ML-integrated open-source transaction monitoring platform.**
+- **[Jube](https://github.com/jube-home/aml-fraud-transaction-monitoring)** [![Stars](https://img.shields.io/github/stars/jube-home/aml-fraud-transaction-monitoring?style=social&color=white)](https://github.com/jube-home/aml-fraud-transaction-monitoring/stargazers)  
+  **Open-source AML and fraud detection engine pairing machine learning with real-time transaction monitoring** (AGPL-3.0). Combines velocity checks, threshold checks, aggregation counts, and sanctions screening with supervised and unsupervised ML scores. Fully containerized (Docker, Kubernetes) cloud-native architecture with multi-tenancy and an administrative operations console.
 
+- **[FollowTheMoney](https://github.com/opensanctions/followthemoney)** [![Stars](https://img.shields.io/github/stars/opensanctions/followthemoney?style=social&color=white)](https://github.com/opensanctions/followthemoney/stargazers)  
+  **Financial crime and investigative data model for entities, ownership graphs, and payments**. Defines an explicit, strict schema to model people, companies, vessels, airplanes, bank accounts, and transactions across complex multinational corporate shell networks and offshore jurisdictions.
 
+- **[IBM AML-Data](https://github.com/IBM/AML-Data)** [![Stars](https://img.shields.io/github/stars/IBM/AML-Data?style=social&color=white)](https://github.com/IBM/AML-Data/stargazers)  
+  **Benchmarking synthetic transaction datasets for AML algorithms**. Provides standardized synthetic datasets embedded with labeled laundering activities created via agent-based simulators, allowing researchers to evaluate false-positive reduction algorithms.
 
-- **[OpenSanctions](https://github.com/opensanctions)**  
+- **[Moov Customers](https://github.com/moov-io/customers)** [![Stars](https://img.shields.io/github/stars/moov-io/customers?style=social&color=white)](https://github.com/moov-io/customers/stargazers)  
+  **Customer Identification Program (CIP), Know Your Customer (KYC), and OFAC search microservice** written in Go. Implements customer identity document validation, entity verification, and sanctions screening integration for automated fintech onboarding workflows.
 
-  **Open-source sanctions, PEP, and watchlist data** with matching algorithms (nomenklatura). The **yente** screening API service is fully open-source and self-hostable. Enables **full auditability and explainability** — any datapoint traces back to its source. Marble built Motiva on top of OpenSanctions' matching algorithms — demonstrating the power of open compliance infrastructure. **The foundational open-source data layer for AML screening.**
+- **[kyc-analyst](https://github.com/vyayasan/kyc-analyst)** [![Stars](https://img.shields.io/github/stars/vyayasan/kyc-analyst?style=social&color=white)](https://github.com/vyayasan/kyc-analyst/stargazers)  
+  **Open-source KYC/AML compliance automation workflow with 17 human-in-the-loop checkpoints**, free public data sources, and deterministic four-factor risk scoring (Geographic 30%, Customer 35%, Product 25%, Channel 10%).
 
+- **[Tazama Stack](https://github.com/tazama-lf/tazama-stack)** [![Stars](https://img.shields.io/github/stars/tazama-lf/tazama-stack?style=social&color=white)](https://github.com/tazama-lf/tazama-stack/stargazers)  
+  **The first open-source platform for real-time financial monitoring and fraud detection** (Apache-2.0), launched by the Linux Foundation with support from the Bill & Melinda Gates Foundation. Recognized as a **Digital Public Good**. Built to **ISO 20022 standards** for financial messaging interoperability. Microservices architecture with rule processors, typology scoring, and case management integration. **Deployed at COMESA JOPACC and the Jordanian Clearing House**.
 
+- **[Awesome-Financial-Crime](https://github.com/SKR-35/Awesome-Financial-Crime)** [![Stars](https://img.shields.io/github/stars/SKR-35/Awesome-Financial-Crime?style=social&color=white)](https://github.com/SKR-35/Awesome-Financial-Crime/stargazers)  
+  **Curated guide to financial crime compliance**, anti-money laundering, fraud detection, KYC/KYB frameworks, transaction monitoring patterns, and regulatory technology resources.
 
-- **[aml-analytics](https://pypi.org/project/aml-analytics/)**  
+- **[Blnk Watch](https://github.com/blnkfinance/watch)** [![Stars](https://img.shields.io/github/stars/blnkfinance/watch?style=social&color=white)](https://github.com/blnkfinance/watch/stargazers)  
+  **Domain-specific language (DSL) and real-time transaction monitoring engine** for financial ledgers. Enables developers to declare fraud rules, velocity thresholds, and AML monitoring limits using declarative syntax.
 
-  **Open-source Python toolkit for AML detection and financial crime analytics** (MIT). Covers **FATF and FinCEN typologies**: structuring (smurfing), layering, rapid fund movement, network-based laundering, and anomalous transaction behavior. Modules: **synthetic transaction generator**, **transaction network analysis** (structuring rings, layering chains, centrality scoring), **velocity checks** (rolling-window burst detection), **rules engine** (FATF/FinCEN typologies), **unsupervised anomaly scoring** (Isolation Forest, LOF), and **SQL query templates** for Oracle/PostgreSQL. **Built by a financial crimes analytics practitioner for compliance teams.** **The most typology-comprehensive open-source AML toolkit.**
+- **[Osprey](https://github.com/opensource-finance/osprey)** [![Stars](https://img.shields.io/github/stars/opensource-finance/osprey?style=social&color=white)](https://github.com/opensource-finance/osprey/stargazers)  
+  **Lightweight open-source transaction monitoring service deployed as a single Go binary in 60 seconds**. Evaluates transactions against Common Expression Language (CEL) rules returning ALRT or NALT decisions, with compliance rules organized into FATF typologies.
 
+- **[cryptotrace](https://github.com/cognis-digital/cryptotrace)** [![Stars](https://img.shields.io/github/stars/cognis-digital/cryptotrace?style=social&color=white)](https://github.com/cognis-digital/cryptotrace/stargazers)  
+  **Blockchain investigator for ETH/BTC clustering, peel-chain tracing, and sanctions cross-referencing**. Features offline air-gapped workflows with cached SDN datasets, SARIF 2.1.0 output for code scanning, and mixer tracing demos.
 
-
-- **[Osprey](https://github.com/opensource-finance/osprey)**  
-
-  **Open-source transaction monitoring in one deployable service** — deploys in **60 seconds** with a single Go binary. Evaluates transactions against **CEL rules** returning ALRT or NALT decisions. Two modes: **detection** (weighted fraud rules with scoring) and **compliance** (rules grouped into FATF typologies). Runtime profiles: **community** (SQLite, in-memory cache) and **pro** (PostgreSQL, Redis, NATS). **The most lightweight open-source rules engine for AML.**
-
-
-
-- **[chain-insights](https://www.npmjs.com/package/chain-insights)**  
-
-  **Open-source AML investigation toolkit for AI agents and analysts** (npm). Screen blockchain addresses, trace role-specific fund flows, manage workspace evidence, and generate graph reports. Tools include **aml_address_risk**, **aml_trace_victim_funds** (forward to exchange deposit candidates), **aml_trace_deposit_sources** (backward to upstream sources), **aml_trace_suspect_funds** (scammer/mule/laundering-ring to cashout topology). **GraphRAG MCP endpoint** for read-only GQL/Cypher queries. **The most AI-agent-ready open-source crypto AML toolkit.**
-
-
-
-- **[Ballerine](https://github.com/ballerine-io/ballerine)**  
-
-  **Open-source infrastructure for identity and risk management** (Y Combinator-backed). Features **KYC/KYB UI flows**, **case management dashboard**, **integrations with identity verification providers**, and a **rule engine** to automate decisioning. **The most flexible open-source platform for building custom KYC/AML workflows.**
-
-
-
-- **[FinSight AI](https://github.com/AwaisRehman/finsight-ai)**  
-
-  **Open-source financial analytics dashboard with rule-assisted fraud screening** (MIT). Pairs **LLaMA 3.3 70B** with live MongoDB transaction store for natural-language querying grounded in actual data. **Rule engine scores each transaction 0-100** using amount and recipient heuristics, flagging entries at threshold 40. Loads dashboard endpoints in under 800ms, returns AI analyses in 1.5-3s on free-tier database. **The most accessible open-source conversational AML analytics tool.**
-
-
-
-- **[cryptotrace](https://github.com/cognis-digital/cryptotrace)**  
-
-  **Free-tier blockchain investigator for ETH/BTC clustering and sanctions cross-referencing**. Features **offline/air-gap workflow** with cached SDN sets for disconnected enclaves. **SARIF 2.1.0 output** for GitHub/GitLab code-scanning integration. Demos cover Tornado Cash deposits, SUEX OTC layering, Lazarus Group bridge exits, peel-chain laundering, and DPRK mixer chains. **The most investigation-focused open-source crypto AML tool.**
-
-
-
-- **[crypto-aml](https://pypi.org/project/crypto-aml/)**  
-
-  **Crypto AML/KYT Python SDK** with AnChain.AI integration. Features **address risk screening**, **graph visualization**, and **exchange whitelist policy** patterns. Risk score bands: 0-29 LOW, 30-50 GUARDED, 51-79 ELEVATED, 80-100 SEVERE. **The most exchange-integration-ready open-source crypto AML SDK.**
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[kyc-analyst](https://github.com/vyayasan/kyc-analyst)** — Open-source KYC/AML compliance automation with **17 human-in-the-loop checkpoints**, free public data sources, and deterministic four-factor risk scoring (Geographic 30%, Customer 35%, Product 25%, Channel 10%). **The most audit-trail-focused open-source KYC workflow.**
-
-- **[Marble SAS](https://www.ventureradar.com/organisation/Marble%20SAS/194b98cc-1c7c-4550-be33-60de59c0ea7a)** — Open-source AI-powered FRAML orchestration platform with **no-code rule creation**, A/B testing, and **instant SAR filings**.
-
-- **[fin-classifier](https://pypi.org/project/fin-classifier/)** — Flexible Python library for classifying bank statement transactions based on customizable rules with logical operators (AND, OR, NOT).
-
-- **[nexus-sanctions](https://packagist.org/packages/azaharizaman/nexus-sanctions)** — PHP package for OFAC/UN sanctions screening and PEP detection with batch screening, similarity scoring, and EDD workflow triggers.
-
-- Community **n8n** workflows for AML alert routing and sanctions screening automation.
-
-
-
-**Frameworks for building custom systems**: Combine **Tazama** for ISO 20022 real-time monitoring with **Marble** for flexible transaction monitoring and case management, **OpenSanctions** for screening data, **Jube** for ML-integrated detection, **aml-analytics** for typology rules, and **PostgreSQL** for persistence — creating a fully self-hosted, enterprise-grade AML monitoring platform.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- AML monitoring systems handling financial transactions must comply with **BSA/AML, FinCEN, OFAC, AMLD5/6, FATF recommendations**, and applicable local regulations. **SAR/STR filing obligations remain the institution's responsibility.**
-
-- **Open-source AML monitoring is mature and production-ready.** Tazama is a **Linux Foundation Digital Public Good** with Bill & Melinda Gates Foundation support, deployed at clearing houses. Marble is used by **100+ fintechs in 15+ countries** with SOC 2 Type II certification. **These are genuine alternatives to commercial platforms.**
-
-- **Typology coverage matters.** aml-analytics implements **FATF and FinCEN typologies** including structuring, layering, rapid fund movement, and network-based laundering. Jube integrates ML outputs with rule-based detection. **Rules alone are insufficient** — network analysis and ML anomaly detection catch what thresholds miss.
-
-- **False positive reduction requires explainability.** Marble's **open architecture** lets you "basically do anything you want, with all your data" — transparency that proprietary black boxes cannot match. OpenSanctions provides **full auditability and explainability** with source tracing.
-
-- **Crypto AML is converging with traditional finance.** chain-insights provides **AI-agent-ready blockchain investigation** with GraphRAG queries. cryptotrace supports **air-gap workflow** for disconnected enclaves. **Exchange whitelist policies** are a common VASP pattern but represent a **weaker AML posture** — always hard-block sanctions even when exchange tags co-occur.
-
-- Self-hosted open-source solutions require proper security hardening, list update management, and ongoing maintenance. **AML compliance is a regulatory obligation** — tools support detection, but human judgment and legal accountability remain.
-
-
+- **[FinSight AI](https://github.com/AwaisRehman/finsight-ai)** [![Stars](https://img.shields.io/github/stars/AwaisRehman/finsight-ai?style=social&color=white)](https://github.com/AwaisRehman/finsight-ai/stargazers)  
+  **Financial analytics dashboard with rule-assisted fraud screening** (MIT). Pairs LLaMA 3.3 70B with MongoDB transaction storage for natural-language querying and automated heuristic scoring (0–100).
 
 ---
 
+### 📦 Developer SDKs, Toolkits & Modules
 
+- **[aml-analytics](https://pypi.org/project/aml-analytics/)** — Python toolkit for AML detection and financial crime analytics. Covers FATF/FinCEN typologies: structuring (smurfing), layering, rapid movement, transaction network centrality scoring, and rolling-window velocity checks.
+- **[chain-insights](https://www.npmjs.com/package/chain-insights)** — AML blockchain investigation toolkit for AI agents and analysts. Screen addresses, trace peel chains, and query GraphRAG MCP endpoints.
+- **[crypto-aml](https://pypi.org/project/crypto-aml/)** — Crypto AML/KYT Python SDK with address risk screening, graph visualization, and exchange whitelist policies.
+- **[fin-classifier](https://pypi.org/project/fin-classifier/)** — Python library for classifying bank statement transactions using customizable logical rules (AND, OR, NOT).
+- **[nexus-sanctions](https://packagist.org/packages/azaharizaman/nexus-sanctions)** — PHP package for OFAC/UN sanctions screening and PEP detection with batch similarity scoring.
 
-**Made for compliance officers, AML analysts, fintech engineers, and developers building transparent financial crime detection solutions.**  
+---
 
-Let's make Financial Anti-Money Laundering monitoring more open, data-driven, and explainable.
+### 🏗️ Architectural Frameworks for Custom AML Stacks
+
+By combining open-source building blocks, engineering teams can build a fully self-hosted, enterprise-grade, transparent AML stack:
+
+```mermaid
+flowchart LR
+    A["Raw Payment Stream / ISO 20022"] --> B["Ingestion & Normalization (Moov / Tazama)"]
+    B --> C{"Decision Engine (Marble / Osprey / Jube)"}
+    C -->|Screening Query| D["Watchlist & PEP Service (OpenSanctions / Moov Watchman)"]
+    C -->|Network Analysis| E["Graph Forensics (IBM AMLSim / Multi-GNN / EvoAML)"]
+    C -->|Typology Checks| F["Rule & Typology Engine (aml-analytics)"]
+    D --> G["Unified Case Management & SAR Filing"]
+    E --> G
+    F --> G
+```
+
+1. **Transaction Ingestion**: **Tazama** for ISO 20022 messaging or **Moov** payment rails.
+2. **Real-Time Screening**: **OpenSanctions (yente)** or **Moov Watchman** for sub-second sanctions/PEP checks.
+3. **Typology & Rules**: **aml-analytics** and **Osprey** for CEL-based FATF compliance rules.
+4. **Graph & ML Forensics**: **EvoAML**, **IBM Multi-GNN**, and **Jube** for unsupervised anomaly scoring.
+5. **Case Management**: **Marble** or **Ballerine** for audit-proof investigation workflows and SAR narrative generation.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Financial-Anti-Money-Laundering-AML-Monitors&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+If this curated repository helped you explore, build, or benchmark Financial Anti-Money Laundering systems, please consider showing your support:
+
+- ⭐ **Star this repository** to help other compliance officers and developers discover it!
+- 🍴 **Fork and contribute** your favorite tools, typologies, or research.
+- 📢 **Share** with your network on LinkedIn, X/Twitter, or Reddit.
+- ☕ **Sponsor the Maintainer**: Buy a coffee or sponsor ongoing maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 🤝 How to Contribute
+
+1. Fork this repository.
+2. Add or update entries in [README.md](README.md) following the existing structured layout.
+3. Include: Product/Project Name, Official Link, Repository / Pricing specifics, and a clear 1–2 sentence description.
+4. Submit a Pull Request with a descriptive summary of your changes.
+
+---
+
+## ⚖️ Disclaimer & Compliance Standards
+
+- This repository is a **community-curated research catalog** — not an official regulatory endorsement.
+- Financial institutions operating transaction monitoring infrastructure must strictly comply with **BSA/AML, FinCEN, OFAC, AMLD5/6, FATF recommendations**, and local sovereign requirements.
+- **SAR/STR Filing Accountability**: Utilizing automated rules, AI copilots, or open-source software does not eliminate the institution's legal obligation to file Suspicious Activity Reports (SAR) or Suspicious Transaction Reports (STR) through accredited human compliance officers.
+- **Open-Source Hardening**: When deploying open-source AML services in production, always ensure encrypted credential storage, continuous watchlist synchronization, high-availability deployments, and robust RBAC audit logging.
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for compliance teams, ML researchers, fintech engineers, and developers fighting financial crime worldwide.</b>
+</p>
